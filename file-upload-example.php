@@ -19,7 +19,7 @@ function form_include()
     $content '</form>';
     return $content;
     
-    
+    }
 add_shortcode('form_example','form_include');
 
 
